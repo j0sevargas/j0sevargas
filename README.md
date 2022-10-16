@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @j0sevargas
+- 👀 I’m interested in games and web development
+- 🌱 I’m currently learning Typescript, Sass and Unity
+- 🍻 I’m looking to collaborate on an interesting and challenging project which requires my skills or my experience and or translation to spanish from english
+- 📫 Drop a line at josevargaspsx@yahoo.com
